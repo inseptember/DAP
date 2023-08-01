@@ -1,0 +1,646 @@
+{
+    "ADA": {
+        "name": "腺苷脱氨酶",
+        "unit": "U/L"
+    },
+    "AFP": {
+        "name": "甲胎蛋白",
+        "unit": "ng/mL"
+    },
+    "AFU": {
+        "name": "α-岩藻糖苷酶",
+        "unit": "U/L"
+    },
+    "ALB": {
+        "name": "白蛋白",
+        "unit": "g/L"
+    },
+    "ALB_2": {
+        "name": "白蛋白",
+        "unit": null
+    },
+    "ALB_U": {
+        "name": "尿白蛋白",
+        "unit": null
+    },
+    "ALP": {
+        "name": "碱性磷酸酶",
+        "unit": "U/L"
+    },
+    "ALT": {
+        "name": "丙氨酸氨基转移酶",
+        "unit": "U/L"
+    },
+    "AMH": {
+        "name": "抗缪勒氏管激素定量测定",
+        "unit": "ng/mL"
+    },
+    "APTT": {
+        "name": "活化部分凝血活酶时间",
+        "unit": "秒"
+    },
+    "ASO": {
+        "name": "抗链球菌溶血素O",
+        "unit": "IU/mL"
+    },
+    "AST": {
+        "name": "天门冬氨酸氨基转移酶",
+        "unit": "U/L"
+    },
+    "ASTm": {
+        "name": "谷草转氨酶同工酶",
+        "unit": "U/L"
+    },
+    "Anti-HCV": {
+        "name": "丙肝抗体",
+        "unit": "COI"
+    },
+    "Anti-HIV": {
+        "name": "人类免疫缺陷病毒抗体",
+        "unit": "COI"
+    },
+    "BA#": {
+        "name": "嗜碱性粒细胞计数",
+        "unit": null
+    },
+    "BA%": {
+        "name": "嗜碱性粒细胞百分比",
+        "unit": "%"
+    },
+    "BACT": {
+        "name": "细菌",
+        "unit": "/μL"
+    },
+    "BXHSW-ST": {
+        "name": "不消化食物",
+        "unit": null
+    },
+    "Blood-ST": {
+        "name": "血液",
+        "unit": null
+    },
+    "C3": {
+        "name": "补体C3",
+        "unit": "g/L"
+    },
+    "C4": {
+        "name": "补体C4",
+        "unit": "g/L"
+    },
+    "CA125": {
+        "name": "糖类抗原125",
+        "unit": "U/mL"
+    },
+    "CA153": {
+        "name": "糖类抗原153",
+        "unit": "U/mL"
+    },
+    "CA199": {
+        "name": "糖类抗原199",
+        "unit": "U/mL"
+    },
+    "CD19": {
+        "name": "CD19(B细胞)",
+        "unit": "%"
+    },
+    "CD3": {
+        "name": "CD3(总T淋巴细胞)",
+        "unit": "%"
+    },
+    "CD3+CD4+": {
+        "name": "CD3+CD4+(辅助T细胞)",
+        "unit": "%"
+    },
+    "CD3+CD8+": {
+        "name": "CD3+CD8+(抑制性/细胞毒T细胞)",
+        "unit": "%"
+    },
+    "CD3-CD16+CD56+": {
+        "name": "CD3-CD16+CD56+(自然杀伤细胞)",
+        "unit": "%"
+    },
+    "CD4+CD8+": {
+        "name": "CD4+/CD8+",
+        "unit": "%"
+    },
+    "CEA": {
+        "name": "癌胚抗原",
+        "unit": "ng/mL"
+    },
+    "CK": {
+        "name": "肌酸激酶",
+        "unit": "U/L"
+    },
+    "CPE": {
+        "name": "C肽",
+        "unit": null
+    },
+    "CRP": {
+        "name": "C反应蛋白",
+        "unit": null
+    },
+    "CT": {
+        "name": "降钙素",
+        "unit": "pg/mL"
+    },
+    "CYFRA21-1": {
+        "name": "细胞角蛋白19片段",
+        "unit": "ng/mL"
+    },
+    "Ca": {
+        "name": "钙",
+        "unit": "mmol/L"
+    },
+    "Ca_U": {
+        "name": "尿钙",
+        "unit": null
+    },
+    "Cl": {
+        "name": "氯",
+        "unit": "mmol/L"
+    },
+    "Cl_U": {
+        "name": "尿氯",
+        "unit": null
+    },
+    "Color-ST": {
+        "name": "颜色",
+        "unit": null
+    },
+    "Cr": {
+        "name": "肌酐",
+        "unit": null
+    },
+    "DBIL": {
+        "name": "直接胆红素",
+        "unit": "μmol/L"
+    },
+    "DD2": {
+        "name": "D-二聚体",
+        "unit": "mg/L"
+    },
+    "DHEA": {
+        "name": "硫酸脱氢表雄酮",
+        "unit": "μmol/L"
+    },
+    "E2": {
+        "name": "雌二醇",
+        "unit": "pmol/L"
+    },
+    "EO#": {
+        "name": "嗜酸性粒细胞计数",
+        "unit": null
+    },
+    "EO%": {
+        "name": "嗜酸性粒细胞百分比",
+        "unit": "%"
+    },
+    "FIB": {
+        "name": "纤维蛋白原",
+        "unit": "g/L"
+    },
+    "FPSA": {
+        "name": "游离前列腺特异抗原",
+        "unit": "ng/mL"
+    },
+    "FSH": {
+        "name": "促卵泡生成素",
+        "unit": "IU/L"
+    },
+    "FT3": {
+        "name": "游离三碘甲状腺素",
+        "unit": "pmol/L"
+    },
+    "FT4": {
+        "name": "游离甲状腺素",
+        "unit": "pmol/L"
+    },
+    "Fe": {
+        "name": "铁",
+        "unit": "μmol/L"
+    },
+    "GGT": {
+        "name": "L-γ-谷氨酰转肽酶",
+        "unit": "U/L"
+    },
+    "GLB": {
+        "name": "球蛋白",
+        "unit": "g/L"
+    },
+    "GLU": {
+        "name": "葡萄糖",
+        "unit": "mmol/L"
+    },
+    "GLU_U": {
+        "name": "尿血糖",
+        "unit": null
+    },
+    "HBDH": {
+        "name": "α-羟丁酸脱氢酶",
+        "unit": "U/L"
+    },
+    "HBcAb": {
+        "name": "乙肝核心抗体",
+        "unit": "COI"
+    },
+    "HBeAb": {
+        "name": "乙肝e抗体",
+        "unit": "COI"
+    },
+    "HBeAg": {
+        "name": "乙肝e抗原",
+        "unit": "COI"
+    },
+    "HBsAb": {
+        "name": "乙肝表面抗体",
+        "unit": "IU/L"
+    },
+    "HBsAg": {
+        "name": "乙肝表面抗原",
+        "unit": "COI"
+    },
+    "HCO3-_U": {
+        "name": "尿碳酸氢盐测定",
+        "unit": "mmol/L"
+    },
+    "HCT": {
+        "name": "红细胞压积",
+        "unit": "%"
+    },
+    "HCV-cAg": {
+        "name": "丙肝病毒核心抗原",
+        "unit": null
+    },
+    "HDL-C": {
+        "name": "高密度脂蛋白胆固醇",
+        "unit": "mmol/L"
+    },
+    "HGB": {
+        "name": "血红蛋白",
+        "unit": "g/L"
+    },
+    "HSTNT": {
+        "name": "超敏肌钙蛋白T",
+        "unit": "ng/L"
+    },
+    "HbA1c": {
+        "name": "糖化血红蛋白",
+        "unit": "%"
+    },
+    "IL6": {
+        "name": "白介素6",
+        "unit": "pg/mL"
+    },
+    "IL6_2": {
+        "name": "白介素6",
+        "unit": "pg/mL"
+    },
+    "INS": {
+        "name": "胰岛素",
+        "unit": null
+    },
+    "IgA": {
+        "name": "免疫球蛋白M",
+        "unit": "g/L"
+    },
+    "IgG": {
+        "name": "免疫球蛋白G",
+        "unit": "g/L"
+    },
+    "IgM": {
+        "name": "免疫球蛋白M",
+        "unit": "g/L"
+    },
+    "K": {
+        "name": "钾",
+        "unit": null
+    },
+    "K/L": {
+        "name": "血KAP/LAM",
+        "unit": null
+    },
+    "K_U": {
+        "name": "尿钾",
+        "unit": null
+    },
+    "LAP": {
+        "name": "亮氨酸氨基肽酶",
+        "unit": "U/L"
+    },
+    "LDH": {
+        "name": "乳酸脱氢酶",
+        "unit": "U/L"
+    },
+    "LDH_2": {
+        "name": "乳酸脱氢酶",
+        "unit": null
+    },
+    "LDL-C": {
+        "name": "低密度脂蛋白胆固醇",
+        "unit": "mmol/L"
+    },
+    "LEU": {
+        "name": "尿白细胞",
+        "unit": "个/uL"
+    },
+    "LH": {
+        "name": "促黄体激素",
+        "unit": "IU/L"
+    },
+    "LPa": {
+        "name": "脂蛋白(a)",
+        "unit": "mg/L"
+    },
+    "LY#": {
+        "name": "淋巴细胞计数",
+        "unit": null
+    },
+    "LY%": {
+        "name": "淋巴细胞百分比",
+        "unit": "%"
+    },
+    "LYMPH%": {
+        "name": "淋巴细胞比例",
+        "unit": "%"
+    },
+    "MAO": {
+        "name": "单胺氧化酶",
+        "unit": "U/L"
+    },
+    "MCH": {
+        "name": "平均血红蛋白含量",
+        "unit": "pg"
+    },
+    "MCHC": {
+        "name": "平均血红蛋白浓度",
+        "unit": "g/L"
+    },
+    "MCV": {
+        "name": "平均红细胞体积",
+        "unit": "fl"
+    },
+    "MO#": {
+        "name": "单核细胞计数",
+        "unit": null
+    },
+    "MO%": {
+        "name": "单核细胞百分比",
+        "unit": "%"
+    },
+    "MPV": {
+        "name": "平均血小板体积",
+        "unit": "fl"
+    },
+    "Mg": {
+        "name": "镁",
+        "unit": "mmol/L"
+    },
+    "Mg_U": {
+        "name": "尿镁",
+        "unit": null
+    },
+    "NE#": {
+        "name": "中性粒细胞计数",
+        "unit": null
+    },
+    "NE%": {
+        "name": "中性粒细胞百分比",
+        "unit": "%"
+    },
+    "NIT": {
+        "name": "尿亚硝酸盐",
+        "unit": null
+    },
+    "NSE": {
+        "name": "神经元特异性烯醇化酶",
+        "unit": "ng/mL"
+    },
+    "NY-ST": {
+        "name": "粘液",
+        "unit": null
+    },
+    "Na": {
+        "name": "钠",
+        "unit": "mmol/L"
+    },
+    "Na_U": {
+        "name": "尿钠",
+        "unit": null
+    },
+    "PCT": {
+        "name": "血小板压积",
+        "unit": "%"
+    },
+    "PDW": {
+        "name": "血小板分布宽度",
+        "unit": "%"
+    },
+    "PLT": {
+        "name": "血小板",
+        "unit": "10^9/L"
+    },
+    "PSA": {
+        "name": "前列腺特异性抗原",
+        "unit": "ng/mL"
+    },
+    "PT": {
+        "name": "凝血酶原时间",
+        "unit": "秒"
+    },
+    "PT-INR": {
+        "name": "PT国际化标准化比值",
+        "unit": null
+    },
+    "Phos": {
+        "name": "磷",
+        "unit": "mmol/L"
+    },
+    "Prog": {
+        "name": "孕酮",
+        "unit": "nmol/L"
+    },
+    "Pyocyte-ST": {
+        "name": "便白细胞",
+        "unit": "/HP"
+    },
+    "RBC": {
+        "name": "红细胞",
+        "unit": "10^12/L"
+    },
+    "RBC-ST": {
+        "name": "便红细胞",
+        "unit": "/HP"
+    },
+    "RBC_U": {
+        "name": "尿红细胞",
+        "unit": null
+    },
+    "RBC_U_2": {
+        "name": "红细胞",
+        "unit": null
+    },
+    "RBP": {
+        "name": "视黄醇结合蛋白",
+        "unit": "mg/L"
+    },
+    "RDW-CV": {
+        "name": "红细胞分布宽度变异系数",
+        "unit": "%"
+    },
+    "RET%": {
+        "name": "网织红细胞百分比",
+        "unit": null
+    },
+    "RF": {
+        "name": "类风湿因子",
+        "unit": "IU/mL"
+    },
+    "SG": {
+        "name": "尿比重",
+        "unit": null
+    },
+    "T3": {
+        "name": "三碘甲状腺原氨酸",
+        "unit": "nmol/L"
+    },
+    "T4": {
+        "name": "甲状腺激素",
+        "unit": "nmol/L"
+    },
+    "TBA": {
+        "name": "总胆汁酸",
+        "unit": "μmol/L"
+    },
+    "TBIL": {
+        "name": "总胆红素",
+        "unit": "μmol/L"
+    },
+    "TC": {
+        "name": "总胆固醇",
+        "unit": "mmol/L"
+    },
+    "TG": {
+        "name": "甘油三脂",
+        "unit": "mmol/L"
+    },
+    "TGAB": {
+        "name": "抗甲状腺球蛋白抗体",
+        "unit": "IU/mL"
+    },
+    "TP": {
+        "name": "总蛋白",
+        "unit": "g/L"
+    },
+    "TPAb": {
+        "name": "梅毒螺旋体抗体",
+        "unit": "COI"
+    },
+    "TPOAb": {
+        "name": "抗甲状腺过氧化物酶抗体",
+        "unit": "IU/mL"
+    },
+    "TPSA": {
+        "name": "总前列腺特异性抗原",
+        "unit": "ng/mL"
+    },
+    "TRAb": {
+        "name": "促甲状腺素受体抗体",
+        "unit": "IU/L"
+    },
+    "TRF": {
+        "name": "转铁蛋白",
+        "unit": "g/L"
+    },
+    "TSH": {
+        "name": "促甲状腺激素",
+        "unit": "mIU/L"
+    },
+    "TT": {
+        "name": "凝血酶时间",
+        "unit": "秒"
+    },
+    "Testo": {
+        "name": "睾酮",
+        "unit": "nmol/L"
+    },
+    "Tg": {
+        "name": "甲状腺球蛋白",
+        "unit": "ng/mL"
+    },
+    "Traits-ST": {
+        "name": "硬度",
+        "unit": null
+    },
+    "Treg": {
+        "name": "调节T细胞",
+        "unit": "%"
+    },
+    "UA": {
+        "name": "尿酸",
+        "unit": "μmol/L"
+    },
+    "Urea": {
+        "name": "尿素氮",
+        "unit": "mmol/L"
+    },
+    "WBC": {
+        "name": "白细胞",
+        "unit": "10^9/L"
+    },
+    "WBC_U": {
+        "name": "尿白细胞",
+        "unit": null
+    },
+    "pH": {
+        "name": "PH值",
+        "unit": null
+    },
+    "pH_U": {
+        "name": "尿PH值",
+        "unit": null
+    },
+    "pct": {
+        "name": "降钙素原",
+        "unit": "ng/mL"
+    },
+    "uPro": {
+        "name": "尿蛋白",
+        "unit": null
+    },
+    "β-hCG": {
+        "name": "绒毛膜促性腺激素",
+        "unit": "IU/L"
+    },
+    "temperature": {
+        "name": "体温",
+        "unit": "℃"
+    },
+    "pulse": {
+        "name": "脉搏",
+        "unit": "次"
+    },
+    "systolicbloodpressure": {
+        "name": "收缩压",
+        "unit": "mmHg"
+    },
+    "diastolicbloodpressure": {
+        "name": "舒张压",
+        "unit": "mmHg"
+    },
+    "age": {
+        "name": "年龄",
+        "unit": "岁"
+    },
+    "gender_name": {
+        "name": "性别",
+        "unit": ""
+    },
+    "marriage_status_name": {
+        "name": "婚姻",
+        "unit": ""
+    },
+    "dm_duration": {
+        "name": "糖尿病病程",
+        "unit": ""
+    }
+}
